@@ -9,6 +9,6 @@ It displays the tops and bottoms with colored dots directly in the main window o
 ![Beginner shows perfect top/bottom detection for past data but is likely failing with the most recent bottom it displays](https://github.com/EarnForex/Beginner/blob/main/README_Images/beginner-repainting-indicator-mt4-mt5.png)
 
 A detailed description of the indicator and its changelog can be found here:
-https://www.earnforex.com/metatrader-indicators/Beginner/
+https://www.earnforex.com/indicators/Beginner/
 
 Any contributions to the code are welcome!
